@@ -23,7 +23,7 @@ public class MainActivity extends Activity {
         sub.setGravity(Gravity.CENTER);
         
         Button btn = new Button(this);
-        btn.setText("Order Now");
+        btn.setText("Enter");
         
         layout.addView(title);
         layout.addView(sub);
